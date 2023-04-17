@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
-**GabriellyFerreiraa/GabriellyFerreiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I am currently working at Cognizant as a Systems Analyst.
+- 🌱 I’m currently learning JavaScript.
+- 👯 I’m looking to collaborate with my projects and learning.
+- 🤔 I’m looking for help with improving my knowledge.
+- 💬 Ask me about anything.
+- 📫 How to reach me: gabiferreira10@hotmail.com
+- 😄 Pronouns: she/her
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabriellyFerreiraa&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabriellyFerreiraa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
