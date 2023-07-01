@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working at Cognizant as a Systems Analyst.<br>🌱 I’m currently learning JavaScript.<br>👯 I’m looking to collaborate with my projects and learning.<br>🤔 I’m looking for help with improving my knowledge.<br>💬 Ask me about anything.<br>📫 How to reach me: gabiferreira10@hotmail.com<br>😄 Pronouns: she/her
+🔭 I am currently working at Cognizant as a Systems Analyst.<br>🌱 I’m currently learning JavaScript and React Js.<br>👯 I’m looking to collaborate with my projects and learning.<br>🤔 I’m looking for help with improving my knowledge.<br>💬 Ask me about anything.<br>📫 How to reach me: gabiferreira10@hotmail.com<br>😄 Pronouns: she/her
 
 
 ## 🌐 Socials:
