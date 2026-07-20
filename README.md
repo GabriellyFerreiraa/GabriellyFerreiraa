@@ -18,15 +18,15 @@ Service desk management tool: role-based dashboards (Lead/Analyst), shift schedu
 AI-assisted support ticket triage — Gemini classifies category/urgency and suggests first diagnostic steps via a Supabase Edge Function, keeping the API key off the client entirely.
 `React` `TypeScript` `Supabase Edge Functions` `Gemini API`
 
-**[Tienda de Lentes](https://github.com/GabriellyFerreiraa/Tienda-de-Lentes)** — [Live demo](https://rococo-lollipop-0f3906.netlify.app/)
-Sunglasses e-commerce store with a real Firebase Firestore backend, cart state managed through React Context and a custom hook.
-`React` `Firebase` `Context API`
+**[Service Desk API](https://github.com/GabriellyFerreiraa/servicedesk-api)**
+REST API built from scratch: JWT authentication, role-based access control (Admin/Agent/Requester) with roles in a dedicated table to prevent privilege escalation, integration tests and CI on GitHub Actions.
+`Node.js` `Express` `TypeScript` `PostgreSQL` `Prisma`
 
 ---
 
 ### 🛠️ Stack
 
-`React` · `TypeScript` · `JavaScript` · `Tailwind CSS` · `Supabase (Postgres, Auth, RLS, Edge Functions)` · `Firebase` · `HTML/CSS`
+`React` · `TypeScript` · `JavaScript` · `Tailwind CSS` · `Supabase (Postgres, Auth, RLS, Edge Functions)` · `Firebase` · `HTML/CSS`· Node.js · Express · PostgreSQL · Prisma
 
 ### 💬 Ask me about
 Debugging Row Level Security, connecting AI APIs to real apps without leaking keys, or anything IT-support-turned-dev related.
