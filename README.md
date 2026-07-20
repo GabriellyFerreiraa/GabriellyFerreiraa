@@ -1,8 +1,8 @@
-### Hi, I'm Gabrielly 👋
+## Hi, I'm Gabrielly 👋
 
-Frontend-focused developer (React, TypeScript, Supabase) — currently a Systems Analyst at Cognizant, transitioning into web development with real projects to back it up, not just courses.
+**Full-Stack Developer** — currently a Systems Analyst at Cognizant, building robust web applications with real projects to back it up, from intuitive interfaces to secure backend logic.
 
-🔧 Background in IT Support/Helpdesk means I'm unusually good at tracing bugs, reading error logs, and figuring out *why* something broke — not just patching the symptom.
+🔧 **The Support Engineer Mindset:** My background in IT Support/Helpdesk means I don't just patch symptoms. I excel at tracing bugs, reading error logs, and structuring secure, maintainable architectures.
 
 📫 gabiferreira101@gmail.com · [LinkedIn](https://www.linkedin.com/in/gabrielly-ferreira-619609113/)
 
