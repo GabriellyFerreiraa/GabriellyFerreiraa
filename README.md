@@ -26,7 +26,7 @@ REST API built from scratch: JWT authentication, role-based access control (Admi
 
 ### 🛠️ Stack
 
-`React` · `TypeScript` · `JavaScript` · `Tailwind CSS` · `Supabase (Postgres, Auth, RLS, Edge Functions)` · `Firebase` · `HTML/CSS`· Node.js · Express · PostgreSQL · Prisma
+`React` · `TypeScript` · `JavaScript` · `Tailwind CSS` · `Supabase (Postgres, Auth, RLS, Edge Functions)` · `Firebase` · `HTML/CSS`· `Node.js` · `Express` · `PostgreSQL` · `Prisma`
 
 ### 💬 Ask me about
 Debugging Row Level Security, connecting AI APIs to real apps without leaking keys, or anything IT-support-turned-dev related.
