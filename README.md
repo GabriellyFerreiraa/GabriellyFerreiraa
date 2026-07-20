@@ -1,8 +1,8 @@
 ## Hi, I'm Gabrielly 👋
 
-**Full-Stack Developer** — currently a Systems Analyst at Cognizant, building robust web applications with real projects to back it up, from intuitive interfaces to secure backend logic.
+**Full-Stack Developer** — currently a Help Desk & QA Analyst at Cognizant.
 
-🔧 **The Support Engineer Mindset:** My background in IT Support/Helpdesk means I don't just patch symptoms. I excel at tracing bugs, reading error logs, and structuring secure, maintainable architectures.
+🔧 **The Support Engineer Mindset:** My background in IT Support/Helpdesk means I don't just patch symptoms. I trace bugs, read error logs, and I care about writing secure, maintainable code and I'm still leveling up.
 
 📫 gabiferreira101@gmail.com · [LinkedIn](https://www.linkedin.com/in/gabrielly-ferreira-619609113/)
 
