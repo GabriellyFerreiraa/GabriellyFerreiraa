@@ -1,8 +1,11 @@
 ## Hi, I'm Gabrielly 👋
 
-**Full-Stack Developer** — currently a Help Desk & QA Analyst at Cognizant.
+**Full-Stack Developer** — React · TypeScript · Node.js · Supabase
+Currently Help Desk & QA Analyst at Cognizant.
 
-🔧 **The Support Engineer Mindset:** My background in IT Support/Helpdesk means I don't just patch symptoms. I trace bugs, read error logs, and I care about writing secure, maintainable code and I'm still leveling up.
+🌎 **Native Portuguese & Spanish** · English (working proficiency)
+
+🔧 **The Support Engineer Mindset:** My background in IT Support means I don't just patch symptoms. I trace bugs, read error logs, and I care about writing secure, maintainable code.
 
 📫 gabiferreira101@gmail.com · [LinkedIn](https://www.linkedin.com/in/gabrielly-ferreira-619609113/)
 
