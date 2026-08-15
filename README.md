@@ -1,6 +1,6 @@
 ## Hi, I'm Gabrielly 👋
 
-**Full-Stack Developer** — React · TypeScript · Node.js · Supabase
+**Full-Stack Developer** — React · Next.js · TypeScript · Node.js · Supabase
 Currently Help Desk & QA Analyst at Cognizant.
 
 🌎 **Native Portuguese & Spanish** · English (working proficiency)
@@ -30,6 +30,13 @@ REST API built from scratch: JWT authentication, role-based access control (Admi
 > Roles live in a **dedicated table**, not as a column on the user record — a deliberate security decision that prevents privilege escalation if the user row is ever compromised through mass-assignment.
 
 `Node.js` `Express` `TypeScript` `PostgreSQL` `Prisma`
+
+**[TicketSense (Next.js)](https://github.com/GabriellyFerreiraa/ticketsense-next)** — [Live demo](https://ticketsense-next.vercel.app)
+The same AI triage product, rebuilt on Next.js 16 App Router to compare architectures.
+
+> The Gemini call moved from a Supabase Edge Function to a **Route Handler**, and route protection moved from a client-side guard to **`proxy.ts`** — so a protected page's HTML is never generated for an unauthenticated visitor. Both versions keep the API key server-side; only the plumbing changes. [Full comparison in the README.](https://github.com/GabriellyFerreiraa/ticketsense-next#-why-two-versions)
+
+`Next.js 16` `React 19` `TypeScript` `Supabase` `Gemini API`
 
 ---
 
