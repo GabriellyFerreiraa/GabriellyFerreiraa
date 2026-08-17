@@ -38,12 +38,19 @@ The same AI triage product, rebuilt on Next.js 16 App Router to compare architec
 
 `Next.js 16` `React 19` `TypeScript` `Supabase` `Gemini API`
 
+[Payload CMS Demo](https://github.com/GabriellyFerreiraa/payload-cms-demo) — [Live demo](https://payload-cms-demo-sigma.vercel.app/)
+Headless CMS running inside a Next.js App Router app: content model defined in TypeScript, authored in the Payload admin panel, stored in Postgres, rendered by Server Components.
+
+Payload is a dependency of the app, not a service beside it — content is read through `payload.find()`, a direct database query on the server, so there's no API token in the render path and no network hop on every render. [Trade-offs against a hosted CMS in the README.](https://github.com/GabriellyFerreiraa/payload-cms-demo#-why-build-this)
+
+`Next.js` `Payload CMS` `TypeScript` `PostgreSQL (Neon)` `Vercel`
+
 ---
 
 ### 🛠️ Stack
 
-`React` · `Next.js` · `TypeScript` · `JavaScript` · `Tailwind CSS` · `Supabase (Postgres, Auth, RLS, Edge Functions)` · `Firebase` · `HTML/CSS`· `Node.js` · `Express` · `PostgreSQL` · `Prisma`
+`React` · `Next.js` · `TypeScript` · `JavaScript` · `Tailwind CSS` · `Supabase (Postgres, Auth, RLS, Edge Functions)` · `Firebase` · `HTML/CSS`· `Node.js` · `Express` · `PostgreSQL` · `Prisma` · `Payload CMS`
 
 ### 💬 Ask me about
-Debugging Row Level Security, connecting AI APIs to real apps without leaking keys, or anything IT-support-turned-dev related.
+Debugging Row Level Security, connecting AI APIs to real apps without leaking keys, choosing where the server boundary goes in a Next.js app, or anything IT-support-turned-dev related.
 
