@@ -33,15 +33,13 @@ REST API built from scratch: JWT authentication, role-based access control (Admi
 
 **[TicketSense (Next.js)](https://github.com/GabriellyFerreiraa/ticketsense-next)** — [Live demo](https://ticketsense-next.vercel.app)
 The same AI triage product, rebuilt on Next.js 16 App Router to compare architectures.
-
 > The Gemini call moved from a Supabase Edge Function to a **Route Handler**, and route protection moved from a client-side guard to **`proxy.ts`** — so a protected page's HTML is never generated for an unauthenticated visitor. Both versions keep the API key server-side; only the plumbing changes. [Full comparison in the README.](https://github.com/GabriellyFerreiraa/ticketsense-next#-why-two-versions)
 
 `Next.js 16` `React 19` `TypeScript` `Supabase` `Gemini API`
 
 [Payload CMS Demo](https://github.com/GabriellyFerreiraa/payload-cms-demo) — [Live demo](https://payload-cms-demo-sigma.vercel.app/)
 Headless CMS running inside a Next.js App Router app: content model defined in TypeScript, authored in the Payload admin panel, stored in Postgres, rendered by Server Components.
-
-Payload is a dependency of the app, not a service beside it — content is read through `payload.find()`, a direct database query on the server, so there's no API token in the render path and no network hop on every render. [Trade-offs against a hosted CMS in the README.](https://github.com/GabriellyFerreiraa/payload-cms-demo#-why-build-this)
+> Payload is a dependency of the app, not a service beside it — content is read through `payload.find()`, a direct database query on the server, so there's no API token in the render path and no network hop on every render. [Trade-offs against a hosted CMS in the README.](https://github.com/GabriellyFerreiraa/payload-cms-demo#-why-build-this)
 
 `Next.js` `Payload CMS` `TypeScript` `PostgreSQL (Neon)` `Vercel`
 
